@@ -1,0 +1,9 @@
+.hero-section {
+    background-image: url("/images/hero-section/zero-take.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-creme-color {
+    background-color: #f9f6ee;
+}
